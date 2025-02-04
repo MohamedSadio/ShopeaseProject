@@ -4,7 +4,25 @@ module.exports = {
     "./public/index.html",
   ],
   theme: {
-    extend: {},
+    extend: {
+      maxHeight: {
+        '260px': '260px',
+      },
+      minHeight:{
+        '260':'260'
+      },
+      maxWidth: {
+        '240px': '240px',
+        '200px': '200px'
+      },
+      minWidth:{
+        '240px':'240px'
+      },
+      text:{
+        '16px':'16px'
+      },
+      scale: ['hover']
+    },
   },
   plugins: [],
   corePlugins: {

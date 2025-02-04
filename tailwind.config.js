@@ -21,7 +21,10 @@ module.exports = {
       text:{
         '16px':'16px'
       },
-      scale: ['hover']
+      scale: ['hover'],
+      spacing: {
+        '5px': '5px',
+      }
     },
   },
   plugins: [],

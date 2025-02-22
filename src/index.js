@@ -4,11 +4,15 @@ import './index.css';
 import Shop from './Shop';
 import reportWebVitals from './reportWebVitals';
 import 'react-multi-carousel';
+import { RouterProvider } from 'react-router-dom';
+import {router} from './routes'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Shop />
+    <RouterProvider router={router}>
+      <Shop />
+    </RouterProvider>
   </React.StrictMode>
 );
 

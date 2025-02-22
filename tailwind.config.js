@@ -9,7 +9,7 @@ module.exports = {
         '260px': '260px',
       },
       minHeight:{
-        '260':'260'
+        '260px':'260px'
       },
       maxWidth: {
         '240px': '240px',

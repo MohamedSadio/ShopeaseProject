@@ -14,10 +14,12 @@ const Navigation = () => {
       <div className='flex flex-wrap items-center gap-10 flex-1'>
         {/* Nav items */}
         <ul className='flex gap-14 text-gray-600 hover:text-black'>
-          <li><NavLink to='/'>Shop</NavLink></li>
-          <li><NavLink to='/kids'>Kids</NavLink></li>
-          <li><NavLink to='/womens'>Women</NavLink></li>
-          <li><NavLink to='/men'>Men</NavLink></li>
+        <ul className='flex gap-14 text-gray-600 hover:text-black'>
+          <li key="shop"><NavLink to='/' className={({isActive})=> isActive? 'active-link':''}>Shop</NavLink></li>
+          <li key="kids"><NavLink to='/kids'>Kids</NavLink></li>
+          <li key="womens"><NavLink to='/womens'>Women</NavLink></li>
+          <li key="men"><NavLink to='/men'>Men</NavLink></li>
+        </ul>   
         </ul>
       </div>
       <div className='flex justify-center'>

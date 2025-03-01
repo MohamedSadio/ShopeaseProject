@@ -24,6 +24,17 @@ module.exports = {
       scale: ['hover'],
       spacing: {
         '5px': '5px',
+      },
+      width: {
+        '30%': '30%',
+        '20%':'20%'
+      },
+      padding: {
+        '40px':'40px',
+        '20px':'20px'
+      },
+      margin: {
+        '20px': '20px'
       }
     },
   },

@@ -1,56 +1,5 @@
 {
-    "categories": [
-        {
-            "title": "categories for women",
-            "data": [
-                {
-                    "title": "Rings",
-                    "description": "Explore now",
-                    "image": "images/category-women-ring.jpg"
-                },
-                {
-                    "title": "Glasses",
-                    "description": "Explore now",
-                    "image": "images/category-women-glasses.jpg"
-                },
-                {
-                    "title": "Watches",
-                    "description": "Explore now",
-                    "image": "images/category-women-watche.jpg"
-                },
-                {
-                    "title": "Armring",
-                    "description": "Explore now",
-                    "image": "images/category-women-armring.jpg"
-                },
-                {
-                    "title": "Chain",
-                    "description": "Explore now",
-                    "image": "images/category-women-chain.jpg"
-                }
-            ]
-        },
-        {
-            "title": "categories for Men",
-            "data": [
-                {
-                    "title": "Watches",
-                    "description": "Explore now",
-                    "image": "images/category-men-watche.jpg"
-                },
-                {
-                    "title": "Glasses",
-                    "description": "Explore now",
-                    "image": "images/category-men-glasses.jpg"
-                },
-                {
-                    "title": "Rings",
-                    "description": "Explore now",
-                    "image": "images/category-men-ring.jpg"
-                }
-            ]
-        }
-    ],
+    "pages":{},
     "footer": {
         "items": [
             {
@@ -114,5 +63,56 @@
             }
         ],
         "Copyright":"Copyright © 2024 ShopEase"
-    }
+    },"categories": [
+        {
+            "title": "categories for women",
+            "data": [
+                {
+                    "title": "Rings",
+                    "description": "Explore now",
+                    "image": "images/category-women-ring.jpg"
+                },
+                {
+                    "title": "Glasses",
+                    "description": "Explore now",
+                    "image": "images/category-women-glasses.jpg"
+                },
+                {
+                    "title": "Watches",
+                    "description": "Explore now",
+                    "image": "images/category-women-watche.jpg"
+                },
+                {
+                    "title": "Armring",
+                    "description": "Explore now",
+                    "image": "images/category-women-armring.jpg"
+                },
+                {
+                    "title": "Chain",
+                    "description": "Explore now",
+                    "image": "images/category-women-chain.jpg"
+                }
+            ]
+        },
+        {
+            "title": "categories for Men",
+            "data": [
+                {
+                    "title": "Watches",
+                    "description": "Explore now",
+                    "image": "images/category-men-watche.jpg"
+                },
+                {
+                    "title": "Glasses",
+                    "description": "Explore now",
+                    "image": "images/category-men-glasses.jpg"
+                },
+                {
+                    "title": "Rings",
+                    "description": "Explore now",
+                    "image": "images/category-men-ring.jpg"
+                }
+            ]
+        }
+    ]
 }

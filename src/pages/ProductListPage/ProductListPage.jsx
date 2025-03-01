@@ -1,8 +1,11 @@
 import React from 'react'
+import Navigation from '../../components/Navigation/Navigation'
 
 const ProductListPage = () => {
   return (
-    <div>ProductListPage</div>
+    <>
+    <Navigation/>
+    </>
   )
 }
 

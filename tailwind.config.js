@@ -30,11 +30,16 @@ module.exports = {
         '20%':'20%'
       },
       padding: {
+        '10px': '10px',
+        '15px':'15px',
+        '20px':'20px',
         '40px':'40px',
-        '20px':'20px'
       },
       margin: {
         '20px': '20px'
+      },
+      accentColor: {  // Ajout de la configuration pour `accent-black`
+        black: '#000000',
       }
     },
   },

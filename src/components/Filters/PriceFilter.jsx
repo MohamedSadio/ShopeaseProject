@@ -12,6 +12,7 @@ const PriceFilter = () => {
     return (
         <div className='flex flex-col mb-4'>
             <p className='text-16px text-black mt-5'>Price</p>
+            <hr />
             <RangeSlider
                 className={"custom-range-slider"}
                 min={0}

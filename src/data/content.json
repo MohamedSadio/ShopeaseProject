@@ -1,7 +1,7 @@
 {
-    "pages":{
-        "shop":{
-            "sections":[
+    "pages": {
+        "shop": {
+            "sections": [
                 {
                     "title": "categories for women",
                     "data": [
@@ -83,105 +83,356 @@
                 ]
             },
             {
-                "title":"Company",
-                "list":[
+                "title": "Company",
+                "list": [
                     {
-                        "label":"About Us",
-                        "path":"/about"
+                        "label": "About Us",
+                        "path": "/about"
                     },
                     {
-                        "label":"Media",
-                        "path":"/media"
+                        "label": "Media",
+                        "path": "/media"
                     }
                 ]
             },
             {
-                "title":"More Info",
-                "list":[
+                "title": "More Info",
+                "list": [
                     {
-                        "label":"Term and Conditions",
-                        "path":"/terms-conditions"
+                        "label": "Term and Conditions",
+                        "path": "/terms-conditions"
                     },
                     {
-                        "label":"Privacy Policy",
-                        "path":"/policies"
+                        "label": "Privacy Policy",
+                        "path": "/policies"
                     },
                     {
-                        "label":"Shipping Policy",
-                        "path":"/policies"
+                        "label": "Shipping Policy",
+                        "path": "/policies"
                     }
                 ]
             },
             {
-                "title":"Location",
-                "description":"Location Country"
+                "title": "Location",
+                "description": "Location Country"
             }
         ],
-        "Copyright":"Copyright © 2024 ShopEase"
-    },"categories": [
+        "Copyright": "Copyright © 2024 ShopEase"
+    },
+    "categories": [
         {
-            "id":"1",
-            "name":"Men",
-            "code":"MEN",
-            "description":"Men's products",
-            "types":[
+            "id": 1,
+            "name": "Men",
+            "code": "MEN",
+            "description": "Men's products",
+            "types": [
                 {
-                    "type_id":"1",
-                    "name":"Watche",
-                    "description":"Explore now"
+                    "type_id": 1,
+                    "name": "Watche",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"2",
-                    "name":"Glasses",
-                    "description":"Explore now"
+                    "type_id": 2,
+                    "name": "Glasses",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"3",
-                    "name":"Rings",
-                    "description":"Explore now"
+                    "type_id": 3,
+                    "name": "Rings",
+                    "description": "Explore now"
                 }
             ],
-            "meta_data":{
-                "colors":["Black","White","Gold","Silver","Navy","Green","BLue","Champagne","Baby-blue","Grey","Yellow","Brown"],
-                "sizes":["one-size","7","8","9","10","11","12"]
+            "meta_data": {
+                "colors": [
+                    "Black",
+                    "White",
+                    "Gold",
+                    "Silver",
+                    "Navy",
+                    "Green",
+                    "Blue",
+                    "Champ",
+                    "Brown",
+                    "Grey",
+                    "Yellow",
+                    "Baby-blue"
+                ],
+                "sizes": [
+                    "one-size",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ]
             }
         },
         {
-            "id":"2",
-            "name":"women",
-            "code":"WOMEN",
-            "description":"Women's products",
-            "types":[
+            "id": 2,
+            "name": "women",
+            "code": "WOMEN",
+            "description": "Women's products",
+            "types": [
                 {
-                    "type_id":"4",
-                    "name":"Watche",
-                    "description":"Explore now"
+                    "type_id": 4,
+                    "name": "Watche",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"5",
-                    "name":"Glasses",
-                    "description":"Explore now"
+                    "type_id": 5,
+                    "name": "Glasses",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"6",
-                    "name":"Rings",
-                    "description":"Explore now"
+                    "type_id": 6,
+                    "name": "Rings",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"7",
-                    "name":"Chain",
-                    "description":"Explore now"
+                    "type_id": 7,
+                    "name": "Chain",
+                    "description": "Explore now"
                 },
                 {
-                    "type_id":"8",
-                    "name":"Armring",
-                    "description":"Explore now"
+                    "type_id": 8,
+                    "name": "Armring",
+                    "description": "Explore now"
                 }
             ],
-            "meta_data":{
-                "colors":["Black","White","Gold","Silver","Navy","Green","BLue","Champagne","Baby-blue","Grey","Yellow","Brown"],
-                "sizes":["one-size","7","8","9","10","11","12"]
+            "meta_data": {
+                "colors": [
+                    "Black",
+                    "White",
+                    "Gold",
+                    "Silver",
+                    "Navy",
+                    "Green",
+                    "Blue",
+                    "Brown",
+                    "Champ",
+                    "Grey",
+                    "Yellow",
+                    "Baby-blue"
+                ],
+                "sizes": [
+                    "one-size",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ]
             }
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "TAG Heuer Carrera",
+            "description": "La TAG Heuer Carrera est une montre de sport élégante, équipée d'un chronographe automatique et inspirée du monde de la course automobile. Son design intemporel et ses performances en font un classique de l'horlogerie.",
+            "category_id": 1,
+            "type_id": 1,
+            "brand": "TAG Heuer",
+            "price": 85000,
+            "size": [
+                "one-size"
+            ],
+            "color": [
+                "Black","Silver","Blue"
+            ],
+            "discount": 0,
+            "thumbnail": "",
+            "images": [
+                "","",""
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "title": "Rolex Submariner",
+            "description": "The Rolex Submariner is a legendary diver's watch, known for its precision and durability. It features a ceramic bezel, automatic movement, and water resistance up to 300 meters.",
+            "category_id": 1,
+            "type_id": 1,
+            "brand": "Rolex",
+            "price": 95000,
+            "size": [
+                "one-size"
+            ],
+            "color": [
+                "Black","Green","Blue"
+            ],
+            "discount": 0,
+            "thumbnail": "",
+            "images": [
+                "","",""
+            ],
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "title": "Omega Seamaster",
+            "description": "Omega Seamaster Diver 300M is a stylish and robust luxury diving watch. It features a stainless steel case, ceramic bezel, and is powered by a Master Chronometer movement.",
+            "category_id": 1,
+            "type_id": 1,
+            "brand": "Omega",
+            "price": 65000,
+            "size": [
+                "one-size"
+            ],
+            "color": [
+                "Blue","Black","Silver"
+            ],
+            "discount": 0,
+            "thumbnail": "",
+            "images": [
+                "","",""
+            ],
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "title": "Casio G-Shock GA-2100",
+            "description": "Casio G-Shock GA-2100 is a tough and sporty digital-analog watch with a carbon core guard structure. Known for its durability, it has shock resistance and is water-resistant up to 200 meters.",
+            "category_id": 1,
+            "type_id": 1,
+            "brand": "Casio",
+            "price": 15000,
+            "size": [
+                "one-size"
+            ],
+            "color": [
+                "Black","White","Baby-blue"
+            ],
+            "discount": 0,
+            "thumbnail": "",
+            "images": [
+                "","",""
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 5,
+            "title": "Ray-Ban Aviator Classic",
+            "description": "Ray-Ban Aviator Classic sunglasses feature a thin metal frame and high-quality lenses, providing optimal UV protection. An iconic model known for its timeless design.",
+            "category_id": 1,
+            "type_id": 2,
+            "brand": "Ray-Ban",
+            "price": 15000,
+            "size": ["one-size"],
+            "color": ["Gold", "Silver", "Black"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.9
+        },
+        {
+            "id": 6,
+            "title": "Oakley Holbrook",
+            "description": "Oakley Holbrook sunglasses offer a modern and sporty design with a lightweight O-Matter frame and Prizm lenses for enhanced visual clarity.",
+            "category_id": 1,
+            "type_id": 2,
+            "brand": "Oakley",
+            "price": 18000,
+            "size": ["one-size"],
+            "color": ["Black", "Grey", "Navy"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.8
+        },
+        {
+            "id": 7,
+            "title": "Persol PO0649",
+            "description": "Persol PO0649 sunglasses feature an elegant acetate frame with the Meflecto system for optimal comfort. A timeless model known for its sophisticated style.",
+            "category_id": 1,
+            "type_id": 2,
+            "brand": "Persol",
+            "price": 25000,
+            "size": ["one-size"],
+            "color": ["Brown", "Champ", "Black"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.7
+        },
+        {
+            "id": 8,
+            "title": "Tom Ford FT0237 Snowdon",
+            "description": "Tom Ford FT0237 Snowdon sunglasses feature a high-quality acetate square frame and tinted lenses for optimal UV protection. A stylish and sophisticated choice.",
+            "category_id": 1,
+            "type_id": 2,
+            "brand": "Tom Ford",
+            "price": 30000,
+            "size": ["one-size"],
+            "color": ["Black", "Grey", "Champ"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.9
+        },
+        {
+            "id": 9,
+            "title": "Gucci Icon Ring",
+            "description": "The Gucci Icon Ring features a timeless design with the brand's signature double-G logo, crafted in high-quality 18k white or yellow gold.",
+            "category_id": 1,
+            "type_id": 3,
+            "brand": "Gucci",
+            "price": 75000,
+            "size": ["8", "9", "10", "11"],
+            "color": ["Gold", "Silver"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.8
+        },
+        {
+            "id": 10,
+            "title": "Cartier Love Ring",
+            "description": "The Cartier Love Ring is an iconic piece featuring the famous screw motif, symbolizing eternal love and commitment, crafted in 18k gold or platinum.",
+            "category_id": 1,
+            "type_id": 3,
+            "brand": "Cartier",
+            "price": 120000,
+            "size": ["7", "8", "9", "10", "11"],
+            "color": ["Gold", "Silver"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.9
+        },
+        {
+            "id": 11,
+            "title": "David Yurman Signet Ring",
+            "description": "The David Yurman Signet Ring is a bold yet classic piece, crafted in sterling silver with a refined, customizable design suitable for engraving.",
+            "category_id": 1,
+            "type_id": 3,
+            "brand": "David Yurman",
+            "price": 55000,
+            "size": ["8", "9", "10", "11", "12"],
+            "color": ["Silver", "Black"],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["", "", ""],
+            "rating": 4.7
+        },
+        
+        
+        {
+            "id": 12,
+            "title": "",
+            "description": "",
+            "category_id": 2,
+            "type_id": 1,
+            "brand": "",
+            "price": 0,
+            "size": [""],
+            "color": [""],
+            "discount": 0,
+            "thumbnail": "",
+            "images": ["","",""],
+            "rating": 4.8
         }
     ]
 }

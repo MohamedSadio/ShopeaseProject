@@ -243,7 +243,7 @@
                 "Black","Silver","Blue"
             ],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Carrera.jpg",
             "images": [
                 "","",""
             ],
@@ -264,7 +264,7 @@
                 "Black","Green","Blue"
             ],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Rolex.jpg",
             "images": [
                 "","",""
             ],
@@ -285,7 +285,7 @@
                 "Blue","Black","Silver"
             ],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Omega.jpg",
             "images": [
                 "","",""
             ],
@@ -298,7 +298,7 @@
             "category_id": 1,
             "type_id": 1,
             "brand": "Casio",
-            "price": 15000,
+            "price": 70000,
             "size": [
                 "one-size"
             ],
@@ -306,7 +306,7 @@
                 "Black","White","Baby-blue"
             ],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Casio.jpg",
             "images": [
                 "","",""
             ],
@@ -323,7 +323,7 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Black"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/RayBan.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -338,7 +338,7 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Navy"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Oakley.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -353,7 +353,7 @@
             "size": ["one-size"],
             "color": ["Brown", "Champ", "Black"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Persol.jpg",
             "images": ["", "", ""],
             "rating": 4.7
         },
@@ -589,7 +589,7 @@
             "category_id": 2,
             "type_id": 7,
             "brand": "BVLGARI",
-            "price": 500000,
+            "price":500000,
             "size": ["18-inch", "20-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,

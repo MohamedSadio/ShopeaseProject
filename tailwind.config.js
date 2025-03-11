@@ -18,7 +18,8 @@ module.exports = {
       minWidth:{
         '240px':'240px'
       },
-      text:{
+      fontSize:{
+        '12px':'12px',
         '16px':'16px',
         '14px':'14px'
       },
@@ -33,7 +34,14 @@ module.exports = {
         '40%': '40%',
         '50%':'50%',
         '52px':'52px',
-        '50px':'50px'
+        '50px':'50px',
+        '250px':'250px',
+        '280px':'280px'
+      },
+      height:{
+        
+        '280px':'280px',
+        '320px':'320px'
       },
       padding: {
         '10px': '10px',

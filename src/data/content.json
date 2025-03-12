@@ -563,7 +563,7 @@
             "size": ["16-inch", "18-inch", "20-inch"],
             "color": ["Silver", "Gold"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Carrera.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -578,7 +578,7 @@
             "size": ["16-inch", "18-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Carrera.jpg",
             "images": ["", "", ""],
             "rating": 5
         },
@@ -593,7 +593,7 @@
             "size": ["18-inch", "20-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Carrera.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },

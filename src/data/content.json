@@ -368,7 +368,7 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/TomFord.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -383,7 +383,7 @@
             "size": ["8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/GucciRing.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -398,7 +398,7 @@
             "size": ["7", "8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/CartierLove.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -413,7 +413,7 @@
             "size": ["8", "9", "10", "11", "12"],
             "color": ["Silver", "Black"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/DavidYurman.jpg",
             "images": ["", "", ""],
             "rating": 4.7
         },
@@ -428,7 +428,7 @@
             "size": ["one-size"],
             "color": ["Gold", "Champ", "Silver"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/MKors.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -443,7 +443,7 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/RolexLady.jpg",
             "images": ["", "", ""],
             "rating": 5
         },
@@ -458,7 +458,7 @@
             "size": ["one-size"],
             "color": ["Silver", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/CartierBallon.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -473,7 +473,7 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/RayBanErika.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -488,7 +488,7 @@
             "size": ["one-size"],
             "color": ["Black", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/GucciGG.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -503,7 +503,7 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/Prada.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -518,7 +518,7 @@
             "size": ["5", "6", "7", "8", "9"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/CartierLoveRingWomen.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -533,7 +533,7 @@
             "size": ["5", "6", "7", "8"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/TiffanyRing.jpg",
             "images": ["", "", ""],
             "rating": 5
         },
@@ -548,7 +548,7 @@
             "size": ["5", "6", "7", "8", "9", "10"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/BvlgariSerpenti.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -563,7 +563,7 @@
             "size": ["16-inch", "18-inch", "20-inch"],
             "color": ["Silver", "Gold"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Carrera.jpg",
+            "thumbnail": "imagesProducts/TiffanyNecklace.jpg",
             "images": ["", "", ""],
             "rating": 4.9
         },
@@ -578,7 +578,7 @@
             "size": ["16-inch", "18-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Carrera.jpg",
+            "thumbnail": "imagesProducts/CartierJusteUnClou.jpg",
             "images": ["", "", ""],
             "rating": 5
         },
@@ -593,7 +593,7 @@
             "size": ["18-inch", "20-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Carrera.jpg",
+            "thumbnail": "imagesProducts/BvlgariSerpenti.jpg",
             "images": ["", "", ""],
             "rating": 4.8
         },
@@ -608,7 +608,7 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/CartierLoveBracelet.jpg",
             "images": ["", "", ""],
             "rating": 5
         },
@@ -623,24 +623,9 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "",
+            "thumbnail": "imagesProducts/TiffanyT.jpg",
             "images": ["", "", ""],
             "rating": 4.9
-        },
-        {
-            "id": 26,
-            "title": "BVLGARI Serpenti Viper Bracelet",
-            "description": "The BVLGARI Serpenti Viper Bracelet is a luxurious and exotic piece featuring a snake-inspired design with a flexible structure, crafted in 18k gold.",
-            "category_id": 2,
-            "type_id": 8,
-            "brand": "BVLGARI",
-            "price": 550000,
-            "size": ["Small", "Medium"],
-            "color": ["Gold", "Champ"],
-            "discount": 0,
-            "thumbnail": "",
-            "images": ["", "", ""],
-            "rating": 4.8
         }
     ]
 }

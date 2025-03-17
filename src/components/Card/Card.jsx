@@ -4,7 +4,7 @@ import ArrowIcon from '../common/ArrowIcon'
 const Card = ({ imagePath, title, description, actionArrow, height, width }) => {
   return (
     <div className='flex flex-col p-6'>
-      <img className={`max-h-260px max-w-240px bg-cover bg-center border rounded hover:scale-105 cursor-pointer transform`}
+      <img className={`max-h-260px max-w-240px bg-cover bg-center border rounded-xl hover:scale-105 cursor-pointer transform`}
         src={imagePath}
         alt="" />
       <div className='flex justify-between items-center'>

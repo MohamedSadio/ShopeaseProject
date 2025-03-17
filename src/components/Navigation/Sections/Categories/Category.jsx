@@ -6,7 +6,7 @@ const Category = ({ section }) => {
   return (
     <>
       <SectionHeading title={section.title} />
-      <div className='flex px-8'>
+      <div className='flex sm:flex flex-wrap px-8'>
         {section.data && section.data?.map((item, index) => {
           return (
             <Card

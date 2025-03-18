@@ -124,6 +124,7 @@
             "id": 1,
             "name": "Men",
             "code": "MEN",
+            "path": "/men",
             "description": "Men's products",
             "types": [
                 {
@@ -172,6 +173,7 @@
             "id": 2,
             "name": "women",
             "code": "WOMEN",
+            "path": "/women",
             "description": "Women's products",
             "types": [
                 {
@@ -243,9 +245,9 @@
                 "Black","Silver","Blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Carrera.jpg",
+            "thumbnail": "/imagesProducts/Men/Carrera.jpg",
             "images": [
-                "imagesProducts/Men/Carrera1.jpg","imagesProducts/Men/Carrera2.jpg"
+                "/imagesProducts/Men/Carrera.jpg","/imagesProducts/Men/Carrera1.jpg","/imagesProducts/Men/Carrera2.jpg"
             ],
             "rating": 4.8
         },
@@ -264,9 +266,9 @@
                 "Black","Green","Blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Rolex.jpg",
+            "thumbnail": "/imagesProducts/Men/Rolex.jpg",
             "images": [
-                "imagesProducts/Men/Rolex1.jpg","imagesProducts/Men/Rolex2.jpg"
+                "/imagesProducts/Men/Rolex.jpg","/imagesProducts/Men/Rolex1.jpg","/imagesProducts/Men/Rolex2.jpg"
             ],
             "rating": 5
         },
@@ -285,9 +287,9 @@
                 "Blue","Black","Silver"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Omega.jpg",
+            "thumbnail": "/imagesProducts/Men/Omega.jpg",
             "images": [
-                "imagesProducts/Men/Omega1.jpg","imagesProducts/Men/Omega2.jpg"
+                "/imagesProducts/Men/Omega.jpg","/imagesProducts/Men/Omega1.jpg","/imagesProducts/Men/Omega2.jpg"
             ],
             "rating": 5
         },
@@ -306,9 +308,9 @@
                 "Black","White","Baby-blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Casio.jpg",
+            "thumbnail": "/imagesProducts/Men/Casio.jpg",
             "images": [
-                "imagesProducts/Men/Casio1.jpg","imagesProducts/Men/Casio2.jpg"
+                "/imagesProducts/Men/Casio.jpg","/imagesProducts/Men/Casio1.jpg","/imagesProducts/Men/Casio2.jpg"
             ],
             "rating": 4.8
         },
@@ -323,8 +325,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/RayBan.jpg",
-            "images": ["imagesProducts/Men/RayBan1.jpg", "imagesProducts/Men/RayBan2.jpg"],
+            "thumbnail": "/imagesProducts/Men/RayBan.jpg",
+            "images": ["/imagesProducts/Men/RayBan.jpg","/imagesProducts/Men/RayBan1.jpg", "/imagesProducts/Men/RayBan2.jpg"],
             "rating": 4.9
         },
         {
@@ -338,8 +340,8 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Navy"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Oakley.jpg",
-            "images": ["imagesProducts/Men/Oakley1.jpg", "imagesProducts/Men/Oakley2.jpg"],
+            "thumbnail": "/imagesProducts/Men/Oakley.jpg",
+            "images": ["/imagesProducts/Men/Oakley.jpg","/imagesProducts/Men/Oakley1.jpg", "/imagesProducts/Men/Oakley2.jpg"],
             "rating": 4.8
         },
         {
@@ -353,8 +355,8 @@
             "size": ["one-size"],
             "color": ["Brown", "Champ", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/Persol.jpg",
-            "images": ["imagesProducts/Men/Persol1.jpg", "imagesProducts/Men/Persol2.jpg"],
+            "thumbnail": "/imagesProducts/Men/Persol.jpg",
+            "images": ["/imagesProducts/Men/Persol.jpg","/imagesProducts/Men/Persol1.jpg", "/imagesProducts/Men/Persol2.jpg"],
             "rating": 4.7
         },
         {
@@ -368,8 +370,8 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/TomFord.jpg",
-            "images": ["imagesProducts/Men/TomFord1.jpg", "imagesProducts/Men/TomFord2.jpg"],
+            "thumbnail": "/imagesProducts/Men/TomFord.jpg",
+            "images": ["/imagesProducts/Men/TomFord.jpg","/imagesProducts/Men/TomFord1.jpg", "/imagesProducts/Men/TomFord2.jpg"],
             "rating": 4.9
         },
         {
@@ -383,8 +385,8 @@
             "size": ["8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/GucciRing.jpg",
-            "images": ["imagesProducts/Men/GucciRing1.jpg", "imagesProducts/Men/GucciRing2.jpg"],
+            "thumbnail": "/imagesProducts/Men/GucciRing.jpg",
+            "images": ["/imagesProducts/Men/GucciRing.jpg","/imagesProducts/Men/GucciRing1.jpg", "/imagesProducts/Men/GucciRing2.jpg"],
             "rating": 4.8
         },
         {
@@ -398,8 +400,8 @@
             "size": ["7", "8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/CartierLove.jpg",
-            "images": ["imagesProducts/Men/CartierLove1.jpg", "imagesProducts/Men/CartierLove2.jpg"],
+            "thumbnail": "/imagesProducts/Men/CartierLove.jpg",
+            "images": ["/imagesProducts/Men/CartierLove.jpg","/imagesProducts/Men/CartierLove1.jpg", "/imagesProducts/Men/CartierLove2.jpg"],
             "rating": 4.9
         },
         {
@@ -413,8 +415,8 @@
             "size": ["8", "9", "10", "11", "12"],
             "color": ["Silver", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Men/DavidYurman.jpg",
-            "images": ["imagesProducts/Men/DavidYurman1.jpg", "imagesProducts/Men/DavidYurman2.jpg"],
+            "thumbnail": "/imagesProducts/Men/DavidYurman.jpg",
+            "images": ["/imagesProducts/Men/DavidYurman.jpg","/imagesProducts/Men/DavidYurman1.jpg", "/imagesProducts/Men/DavidYurman2.jpg"],
             "rating": 4.7
         },
         {
@@ -428,8 +430,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Champ", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/MKors.jpg",
-            "images": ["imagesProducts/Women/MKors1.jpg", "imagesProducts/Women/MKors2.jpg"],
+            "thumbnail": "/imagesProducts/Women/MKors.jpg",
+            "images": ["/imagesProducts/Women/MKors.jpg","/imagesProducts/Women/MKors1.jpg", "/imagesProducts/Women/MKors2.jpg"],
             "rating": 4.8
         },
         {
@@ -443,8 +445,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/RolexLady.jpg",
-            "images": ["imagesProducts/Women/RolexLady1.jpg", "imagesProducts/Women/RolexLady2.jpg"],
+            "thumbnail": "/imagesProducts/Women/RolexLady.jpg",
+            "images": ["/imagesProducts/Women/RolexLady.jpg","/imagesProducts/Women/RolexLady1.jpg", "/imagesProducts/Women/RolexLady2.jpg"],
             "rating": 5
         },
         {
@@ -458,8 +460,8 @@
             "size": ["one-size"],
             "color": ["Silver", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/CartierBallon.jpg",
-            "images": ["imagesProducts/Women/CartierBallon1.jpg", "imagesProducts/Women/CartierBallon2.jpg"],
+            "thumbnail": "/imagesProducts/Women/CartierBallon.jpg",
+            "images": ["/imagesProducts/Women/CartierBallon.jpg","/imagesProducts/Women/CartierBallon1.jpg", "/imagesProducts/Women/CartierBallon2.jpg"],
             "rating": 4.9
         },
         {
@@ -473,8 +475,8 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/RayBanErika.jpg",
-            "images": ["imagesProducts/Women/RayBanErika1.jpg", "imagesProducts/Women/RayBanErika2.jpg"],
+            "thumbnail": "/imagesProducts/Women/RayBanErika.jpg",
+            "images": ["/imagesProducts/Women/RayBanErika.jpg","/imagesProducts/Women/RayBanErika1.jpg", "/imagesProducts/Women/RayBanErika2.jpg"],
             "rating": 4.8
         },
         {
@@ -488,8 +490,8 @@
             "size": ["one-size"],
             "color": ["Black", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/GucciGG.jpg",
-            "images": ["imagesProducts/Women/GucciGG1.jpg", "imagesProducts/Women/GucciGG2.jpg"],
+            "thumbnail": "/imagesProducts/Women/GucciGG.jpg",
+            "images": ["/imagesProducts/Women/GucciGG.jpg","/imagesProducts/Women/GucciGG1.jpg", "/imagesProducts/Women/GucciGG2.jpg"],
             "rating": 4.9
         },
         {
@@ -503,8 +505,8 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/Prada.jpg",
-            "images": ["imagesProducts/Women/Prada1.jpg", "imagesProducts/Women/Prada2.jpg"],
+            "thumbnail": "/imagesProducts/Women/Prada.jpg",
+            "images": ["/imagesProducts/Women/Prada.jpg","/imagesProducts/Women/Prada1.jpg", "/imagesProducts/Women/Prada2.jpg"],
             "rating": 4.9
         },
         {
@@ -518,8 +520,8 @@
             "size": ["5", "6", "7", "8", "9"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/CartierLoveRingWomen.jpg",
-            "images": ["imagesProducts/Women/CartierLoveRingWomen1.jpg", "imagesProducts/Women/CartierLoveRingWomen2.jpg"],
+            "thumbnail": "/imagesProducts/Women/CartierLoveRingWomen.jpg",
+            "images": ["/imagesProducts/Women/CartierLoveRingWomen.jpg","/imagesProducts/Women/CartierLoveRingWomen1.jpg", "/imagesProducts/Women/CartierLoveRingWomen2.jpg"],
             "rating": 4.9
         },
         {
@@ -533,8 +535,8 @@
             "size": ["5", "6", "7", "8"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/TiffanyRing.jpg",
-            "images": ["imagesProducts/Women/TiffanyRing1.jpg", "imagesProducts/Women/TiffanyRing2.jpg"],
+            "thumbnail": "/imagesProducts/Women/TiffanyRing.jpg",
+            "images": ["/imagesProducts/Women/TiffanyRing.jpg","/imagesProducts/Women/TiffanyRing1.jpg", "/imagesProducts/Women/TiffanyRing2.jpg"],
             "rating": 5
         },
         {
@@ -548,8 +550,8 @@
             "size": ["5", "6", "7", "8", "9", "10"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/BvlgariSerpenti.jpg",
-            "images": ["imagesProducts/Women/BvlgariSerpenti1.jpg", "imagesProducts/Women/BvlgariSerpenti2.jpg"],
+            "thumbnail": "/imagesProducts/Women/BvlgariSerpenti.jpg",
+            "images": ["/imagesProducts/Women/BvlgariSerpenti.jpg","/imagesProducts/Women/BvlgariSerpenti1.jpg", "/imagesProducts/Women/BvlgariSerpenti2.jpg"],
             "rating": 4.8
         },
         {
@@ -563,8 +565,8 @@
             "size": ["16-inch", "18-inch", "20-inch"],
             "color": ["Silver", "Gold"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/TiffanyNecklace.jpg",
-            "images": ["imagesProducts/Women/TiffanyNecklace1.jpg", "imagesProducts/Women/TiffanyNecklace2.jpg"],
+            "thumbnail": "/imagesProducts/Women/TiffanyNecklace.jpg",
+            "images": ["/imagesProducts/Women/TiffanyNecklace.jpg","/imagesProducts/Women/TiffanyNecklace1.jpg", "/imagesProducts/Women/TiffanyNecklace2.jpg"],
             "rating": 4.9
         },
         {
@@ -578,8 +580,8 @@
             "size": ["16-inch", "18-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/CartierJusteUnClou.jpg",
-            "images": ["imagesProducts/Women/CartierJusteUnClou1.jpg", "imagesProducts/Women/CartierJusteUnClou2.jpg"],
+            "thumbnail": "/imagesProducts/Women/CartierJusteUnClou.jpg",
+            "images": ["/imagesProducts/Women/CartierJusteUnClou.jpg","/imagesProducts/Women/CartierJusteUnClou1.jpg", "/imagesProducts/Women/CartierJusteUnClou2.jpg"],
             "rating": 5
         },
         {
@@ -593,8 +595,8 @@
             "size": ["18-inch", "20-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/BvlgariSerpenti.jpg",
-            "images": ["imagesProducts/Women/BvlgariSerpenti1.jpg"],
+            "thumbnail": "/imagesProducts/Women/BvlgariSerpenti.jpg",
+            "images": ["/imagesProducts/Women/BvlgariSerpenti.jpg","/imagesProducts/Women/BvlgariSerpenti1.jpg"],
             "rating": 4.8
         },
         {
@@ -608,8 +610,8 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/CartierLoveBracelet.jpg",
-            "images": ["imagesProducts/Women/CartierLoveBracelet1.jpg", "imagesProducts/Women/CartierLoveBracelet2.jpg"],
+            "thumbnail": "/imagesProducts/Women/CartierLoveBracelet.jpg",
+            "images": ["/imagesProducts/Women/CartierLoveBracelet.jpg","/imagesProducts/Women/CartierLoveBracelet1.jpg", "/imagesProducts/Women/CartierLoveBracelet2.jpg"],
             "rating": 5
         },
         {
@@ -623,8 +625,8 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Women/TiffanyT.jpg",
-            "images": ["imagesProducts/Women/TiffanyT1.jpg", "imagesProducts/Women/TiffanyT2.jpg"],
+            "thumbnail": "/imagesProducts/Women/TiffanyT.jpg",
+            "images": ["/imagesProducts/Women/TiffanyT.jpg","/imagesProducts/Women/TiffanyT1.jpg", "/imagesProducts/Women/TiffanyT2.jpg"],
             "rating": 4.9
         }
     ]

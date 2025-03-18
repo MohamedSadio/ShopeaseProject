@@ -243,9 +243,9 @@
                 "Black","Silver","Blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Carrera.jpg",
+            "thumbnail": "imagesProducts/Men/Carrera.jpg",
             "images": [
-                "","",""
+                "imagesProducts/Men/Carrera1.jpg","imagesProducts/Men/Carrera2.jpg"
             ],
             "rating": 4.8
         },
@@ -264,9 +264,9 @@
                 "Black","Green","Blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Rolex.jpg",
+            "thumbnail": "imagesProducts/Men/Rolex.jpg",
             "images": [
-                "","",""
+                "imagesProducts/Men/Rolex1.jpg","imagesProducts/Men/Rolex2.jpg"
             ],
             "rating": 5
         },
@@ -285,9 +285,9 @@
                 "Blue","Black","Silver"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Omega.jpg",
+            "thumbnail": "imagesProducts/Men/Omega.jpg",
             "images": [
-                "","",""
+                "imagesProducts/Men/Omega1.jpg","imagesProducts/Men/Omega2.jpg"
             ],
             "rating": 5
         },
@@ -306,9 +306,9 @@
                 "Black","White","Baby-blue"
             ],
             "discount": 0,
-            "thumbnail": "imagesProducts/Casio.jpg",
+            "thumbnail": "imagesProducts/Men/Casio.jpg",
             "images": [
-                "","",""
+                "imagesProducts/Men/Casio1.jpg","imagesProducts/Men/Casio2.jpg"
             ],
             "rating": 4.8
         },
@@ -323,8 +323,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/RayBan.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/RayBan.jpg",
+            "images": ["imagesProducts/Men/RayBan1.jpg", "imagesProducts/Men/RayBan2.jpg"],
             "rating": 4.9
         },
         {
@@ -338,8 +338,8 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Navy"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Oakley.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/Oakley.jpg",
+            "images": ["imagesProducts/Men/Oakley1.jpg", "imagesProducts/Men/Oakley2.jpg"],
             "rating": 4.8
         },
         {
@@ -353,13 +353,13 @@
             "size": ["one-size"],
             "color": ["Brown", "Champ", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Persol.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/Persol.jpg",
+            "images": ["imagesProducts/Men/Persol1.jpg", "imagesProducts/Men/Persol2.jpg"],
             "rating": 4.7
         },
         {
             "id": 8,
-            "title": "Tom Ford FT0237 Snowdon",
+            "title": "Tom Ford FT0237",
             "description": "Tom Ford FT0237 Snowdon sunglasses feature a high-quality acetate square frame and tinted lenses for optimal UV protection. A stylish and sophisticated choice.",
             "category_id": 1,
             "type_id": 2,
@@ -368,8 +368,8 @@
             "size": ["one-size"],
             "color": ["Black", "Grey", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/TomFord.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/TomFord.jpg",
+            "images": ["imagesProducts/Men/TomFord1.jpg", "imagesProducts/Men/TomFord2.jpg"],
             "rating": 4.9
         },
         {
@@ -383,8 +383,8 @@
             "size": ["8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/GucciRing.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/GucciRing.jpg",
+            "images": ["imagesProducts/Men/GucciRing1.jpg", "imagesProducts/Men/GucciRing2.jpg"],
             "rating": 4.8
         },
         {
@@ -398,8 +398,8 @@
             "size": ["7", "8", "9", "10", "11"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/CartierLove.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/CartierLove.jpg",
+            "images": ["imagesProducts/Men/CartierLove1.jpg", "imagesProducts/Men/CartierLove2.jpg"],
             "rating": 4.9
         },
         {
@@ -413,8 +413,8 @@
             "size": ["8", "9", "10", "11", "12"],
             "color": ["Silver", "Black"],
             "discount": 0,
-            "thumbnail": "imagesProducts/DavidYurman.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Men/DavidYurman.jpg",
+            "images": ["imagesProducts/Men/DavidYurman1.jpg", "imagesProducts/Men/DavidYurman2.jpg"],
             "rating": 4.7
         },
         {
@@ -428,8 +428,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Champ", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/MKors.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/MKors.jpg",
+            "images": ["imagesProducts/Women/MKors1.jpg", "imagesProducts/Women/MKors2.jpg"],
             "rating": 4.8
         },
         {
@@ -443,8 +443,8 @@
             "size": ["one-size"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/RolexLady.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/RolexLady.jpg",
+            "images": ["imagesProducts/Women/RolexLady1.jpg", "imagesProducts/Women/RolexLady2.jpg"],
             "rating": 5
         },
         {
@@ -458,8 +458,8 @@
             "size": ["one-size"],
             "color": ["Silver", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/CartierBallon.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/CartierBallon.jpg",
+            "images": ["imagesProducts/Women/CartierBallon1.jpg", "imagesProducts/Women/CartierBallon2.jpg"],
             "rating": 4.9
         },
         {
@@ -473,8 +473,8 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/RayBanErika.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/RayBanErika.jpg",
+            "images": ["imagesProducts/Women/RayBanErika1.jpg", "imagesProducts/Women/RayBanErika2.jpg"],
             "rating": 4.8
         },
         {
@@ -488,8 +488,8 @@
             "size": ["one-size"],
             "color": ["Black", "Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/GucciGG.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/GucciGG.jpg",
+            "images": ["imagesProducts/Women/GucciGG1.jpg", "imagesProducts/Women/GucciGG2.jpg"],
             "rating": 4.9
         },
         {
@@ -503,8 +503,8 @@
             "size": ["one-size"],
             "color": ["Black", "Brown", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/Prada.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/Prada.jpg",
+            "images": ["imagesProducts/Women/Prada1.jpg", "imagesProducts/Women/Prada2.jpg"],
             "rating": 4.9
         },
         {
@@ -518,8 +518,8 @@
             "size": ["5", "6", "7", "8", "9"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/CartierLoveRingWomen.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/CartierLoveRingWomen.jpg",
+            "images": ["imagesProducts/Women/CartierLoveRingWomen1.jpg", "imagesProducts/Women/CartierLoveRingWomen2.jpg"],
             "rating": 4.9
         },
         {
@@ -533,8 +533,8 @@
             "size": ["5", "6", "7", "8"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/TiffanyRing.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/TiffanyRing.jpg",
+            "images": ["imagesProducts/Women/TiffanyRing1.jpg", "imagesProducts/Women/TiffanyRing2.jpg"],
             "rating": 5
         },
         {
@@ -548,13 +548,13 @@
             "size": ["5", "6", "7", "8", "9", "10"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/BvlgariSerpenti.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/BvlgariSerpenti.jpg",
+            "images": ["imagesProducts/Women/BvlgariSerpenti1.jpg", "imagesProducts/Women/BvlgariSerpenti2.jpg"],
             "rating": 4.8
         },
         {
             "id": 21,
-            "title": "Tiffany & Co. Heart Tag Necklace",
+            "title": "Tiffany & Co Necklace",
             "description": "The Tiffany & Co. Heart Tag Necklace is a classic sterling silver chain featuring a heart-shaped tag, symbolizing elegance and timeless charm.",
             "category_id": 2,
             "type_id": 7,
@@ -563,13 +563,13 @@
             "size": ["16-inch", "18-inch", "20-inch"],
             "color": ["Silver", "Gold"],
             "discount": 0,
-            "thumbnail": "imagesProducts/TiffanyNecklace.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/TiffanyNecklace.jpg",
+            "images": ["imagesProducts/Women/TiffanyNecklace1.jpg", "imagesProducts/Women/TiffanyNecklace2.jpg"],
             "rating": 4.9
         },
         {
             "id": 22,
-            "title": "Cartier Juste Un Clou Necklace",
+            "title": "Cartier Juste Un Clou",
             "description": "The Cartier Juste Un Clou Necklace is a bold and modern piece crafted in 18k gold, featuring a nail-inspired design that exudes elegance and confidence.",
             "category_id": 2,
             "type_id": 7,
@@ -578,13 +578,13 @@
             "size": ["16-inch", "18-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/CartierJusteUnClou.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/CartierJusteUnClou.jpg",
+            "images": ["imagesProducts/Women/CartierJusteUnClou1.jpg", "imagesProducts/Women/CartierJusteUnClou2.jpg"],
             "rating": 5
         },
         {
             "id": 23,
-            "title": "BVLGARI Serpenti Necklace",
+            "title": "BVLGARI Serpenti",
             "description": "The BVLGARI Serpenti Necklace is a luxurious and exotic piece featuring a snake-inspired design, encrusted with diamonds and crafted in 18k gold.",
             "category_id": 2,
             "type_id": 7,
@@ -593,8 +593,8 @@
             "size": ["18-inch", "20-inch"],
             "color": ["Gold", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/BvlgariSerpenti.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/BvlgariSerpenti.jpg",
+            "images": ["imagesProducts/Women/BvlgariSerpenti1.jpg"],
             "rating": 4.8
         },
         {
@@ -608,8 +608,8 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "imagesProducts/CartierLoveBracelet.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/CartierLoveBracelet.jpg",
+            "images": ["imagesProducts/Women/CartierLoveBracelet1.jpg", "imagesProducts/Women/CartierLoveBracelet2.jpg"],
             "rating": 5
         },
         {
@@ -623,8 +623,8 @@
             "size": ["Small", "Medium", "Large"],
             "color": ["Gold", "Silver"],
             "discount": 0,
-            "thumbnail": "imagesProducts/TiffanyT.jpg",
-            "images": ["", "", ""],
+            "thumbnail": "imagesProducts/Women/TiffanyT.jpg",
+            "images": ["imagesProducts/Women/TiffanyT1.jpg", "imagesProducts/Women/TiffanyT2.jpg"],
             "rating": 4.9
         }
     ]

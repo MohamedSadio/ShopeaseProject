@@ -24,6 +24,9 @@ module.exports = {
         '16px':'16px',
         '14px':'14px'
       },
+      fontWeight: {
+        'bold': '700',  // Ajout du style bold ici
+      },
       scale: ['hover'],
       spacing: {
         '5px': '5px',

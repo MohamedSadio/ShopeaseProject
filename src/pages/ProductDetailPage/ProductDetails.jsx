@@ -4,6 +4,8 @@ import Breadcrumb from '../../components/Breadcrumb/Breadcrumb';
 import content from '../../data/content.json'
 import Rating from '../../components/Rating/Rating';
 import { Link } from 'react-router-dom';
+import SizeFilter from '../../components/Filters/SizeFilter';
+import ProductColors from './ProductColors';
 
 const categories = content?.categories;
 
@@ -59,10 +61,16 @@ const ProductDetails = () => {
                 <p className='text-3xl pt-5'>{product?.title}</p>
                 <Rating rating={product?.rating} />
                 <div className='flex flex-col'>
-                    <div className='flex'>
+                    <div className='flex gap-2'>
                         <p className='text-sm font-bold'>Select size</p>
-                        <Link>{'Size guide ->'}</Link>
+                        <Link className='text-sm text-gray-500 hover:text-gray-900'
+                            to={'https://en.wikipedia.org/wiki/Clothing_sizes'} target='_blank'>{'Size guide ->'}</Link>
                     </div>
+                </div>
+                <div className='mt-5'><SizeFilter sizes={product?.size} hidleTitle /></div>
+                <div className='mt-5'>
+                    <p className='text-lg font-bold'>Colors Available</p>
+                    <ProductColors colors={product?.color} />
                 </div>
             </div>
 

@@ -31,7 +31,7 @@ const SizeFilter = ({sizes, hidleTitle, multi=true, onChange}) => {
               return (
                 <div key={index} className='flex flex-col'>
                   <div 
-                    className='w-10 sm:w-12 h-7 sm:h-8 border text-center rounded-lg cursor-pointer 
+                    className='w-14 sm:w-16 h-7 sm:h-8 border text-center rounded-lg cursor-pointer 
                     hover:scale-110 transform bg-white border-gray-500 text-gray-500 text-xs sm:text-sm flex items-center justify-center' 
                     style={appliedSize?.includes(item) ? {
                       background: 'black',

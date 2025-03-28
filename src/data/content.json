@@ -550,8 +550,8 @@
             "size": ["5", "6", "7", "8", "9", "10"],
             "color": ["Gold", "Silver", "Champ"],
             "discount": 0,
-            "thumbnail": "/imagesProducts/Women/BvlgariSerpenti.jpg",
-            "images": ["/imagesProducts/Women/BvlgariSerpenti.jpg","/imagesProducts/Women/BvlgariSerpenti1.jpg", "/imagesProducts/Women/BvlgariSerpenti2.jpg"],
+            "thumbnail": "/imagesProducts/Women/BvlgariRing.jpg",
+            "images": ["/imagesProducts/Women/BvlgariRing.jpg","/imagesProducts/Women/BvlgariRing1.jpg", "/imagesProducts/Women/BvlgariRing2.jpg"],
             "rating": 4.8
         },
         {

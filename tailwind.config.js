@@ -45,6 +45,7 @@ module.exports = {
         '52px':'52px',
         '50px':'50px',
         '60px':'60px',
+        '150px':'150px',
         '250px':'250px',
         '280px':'280px'
       },
@@ -118,7 +119,9 @@ module.exports = {
   },
   variants: {
     extend: {
-      outline: ['hover'], // Ajoutez cette ligne pour activer l'option hover sur les utilitaires outline
+      outline: ['hover'],
+      fill: ['hover'],
+      stroke: ['hover', 'group-hover'], // Ajoutez cette ligne pour activer l'option hover sur les utilitaires outline
     },
   },
 };

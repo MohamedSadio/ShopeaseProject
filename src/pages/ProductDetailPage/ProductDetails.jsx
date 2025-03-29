@@ -40,8 +40,8 @@ const ProductDetails = () => {
     const [image, setImage] = useState(product?.images[0] ?? product?.thumbnail);
     const [breadCrumbLinks, setBreadCrumbLink] = useState([]);
 
-    const productListItems = useMemo(()=>{
-        return content?.products?.filter((item)=> item?.type_id === product?.type_id)
+    const similarProducts = useMemo(()=>{
+        return content?.products?.filter((item)=> (item?.type_id === product?.type_id && item?.id !== product?.id))
       },[product]);
 
     const productCategory = useMemo(() => {
@@ -147,19 +147,20 @@ const ProductDetails = () => {
             </div>
             
             {/*Product description */}
-            <SectionHeading title={"Product description"} />
-            <div className='w-50% p-2'>
-                
-                <p className='p-4 md:p-8'>{product?.description}</p>
+            
+            <div className='w-full md:w-50% p-10'>
+                <SectionHeading title={"Product description"}/>
+                <p className='px-8'>{product?.description}</p>
             </div>
 
             {/*Product similar */}
             <SectionHeading title={"Similar Product"} />
                 <div className='flex md:w-50% lg:w-full p-4 md:p-10'>
                     <div className='pt-2 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 md:gap-6 lg:gap-8'>
-                        {productListItems?.map((item,index)=>{
+                        {similarProducts?.map((item,index)=>{
                         return <ProductCard key={index} {...item}/>
                         })}
+                        {!similarProducts?.length && <p>No products found!</p>}
                     </div>
                 </div>
             
